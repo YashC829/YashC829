@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Yash Chadda, a rising junior studying computer science at Johns Hopkins University. In addition to my coursework, I'm currently working on research at JHU to detect and control surgical tools using machine learning models. I'm passionate about harnessing artificial intelligence and other technology to enhance our knowledge and improve our lives. Feel free to contact me at ychadda1@jh.edu!
+I'm Yash Chadda, an undergraduate at Johns Hopkins University studying computer science. In addition to my coursework, I'm currently working on research at JHU to detect and control surgical tools using machine learning models. I'm passionate about harnessing artificial intelligence and other technology to enhance our knowledge and improve our lives. Feel free to contact me at ychadda1@jh.edu!
